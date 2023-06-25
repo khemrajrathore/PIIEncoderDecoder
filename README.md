@@ -50,7 +50,7 @@ python -m spacy download en_core_web_sm
 Input
 
 ```
-Create me a congratulatory email for David for being promoted to the role Senior Software Engineer at Accenture Private Limited, New York
+Create me a congratulatory email from John working at Google Inc, California to David for being promoted to the role Senior Software Engineer at Accenture Private Limited, New York
 ```
 
 Encoded String
